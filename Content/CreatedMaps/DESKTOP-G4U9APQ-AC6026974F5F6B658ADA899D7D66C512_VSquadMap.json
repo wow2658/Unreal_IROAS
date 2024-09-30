@@ -1,0 +1,200 @@
+{
+	"creatorMapId": "DESKTOP-G4U9APQ-AC6026974F5F6B658ADA899D7D66C512",
+	"creatorMapName": "VSQUAD_MAP_2",
+	"creatorMapType": "TIME_ATTACK",
+	"creator": 123456789,
+	"createTime": "2023-10-31 00:40:11",
+	"playerStartPointXLocation": -774.23834228515625,
+	"playerStartPointYLocation": -300.85455322265625,
+	"playerStartPointZLocation": 0,
+	"playerStartPointYaw": 107.21495056152344,
+	"timezone": "Noon",
+	"enemySpawnerList": [
+		{
+			"enemyStartPointXLocation": -279.83798217773438,
+			"enemyStartPointYLocation": -1527.425048828125,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		},
+		{
+			"enemyStartPointXLocation": 1177.390625,
+			"enemyStartPointYLocation": -483.75631713867188,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		},
+		{
+			"enemyStartPointXLocation": -958.92510986328125,
+			"enemyStartPointYLocation": 783.6307373046875,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		},
+		{
+			"enemyStartPointXLocation": -2127.893798828125,
+			"enemyStartPointYLocation": -426.7774658203125,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		},
+		{
+			"enemyStartPointXLocation": -1995.11328125,
+			"enemyStartPointYLocation": -1256.553955078125,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		},
+		{
+			"enemyStartPointXLocation": -1221.489501953125,
+			"enemyStartPointYLocation": -1774.92041015625,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		},
+		{
+			"enemyStartPointXLocation": 537.4237060546875,
+			"enemyStartPointYLocation": -2038.5572509765625,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		},
+		{
+			"enemyStartPointXLocation": 1294.32177734375,
+			"enemyStartPointYLocation": -1647.8026123046875,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		}
+	],
+	"propList": [
+		{
+			"propId": "building_1",
+			"propName": "Wall_7",
+			"propLocationX": -1680.304443359375,
+			"propLocationY": 2054.95068359375,
+			"propLocationZ": 0,
+			"propYawValue": 36.961135864257812
+		},
+		{
+			"propId": "props2",
+			"propName": "Wall_7",
+			"propLocationX": 269.6678466796875,
+			"propLocationY": 670.27001953125,
+			"propLocationZ": 0,
+			"propYawValue": 0.030717674642801285
+		},
+		{
+			"propId": "props2",
+			"propName": "Wall_7",
+			"propLocationX": 341.11978149414062,
+			"propLocationY": -620.08990478515625,
+			"propLocationZ": 0,
+			"propYawValue": 0.5745091438293457
+		},
+		{
+			"propId": "props2",
+			"propName": "Wall_7",
+			"propLocationX": 618.841552734375,
+			"propLocationY": -1108.355224609375,
+			"propLocationZ": 0,
+			"propYawValue": 0.52655088901519775
+		},
+		{
+			"propId": "props2",
+			"propName": "Wall_7",
+			"propLocationX": 1568.8880615234375,
+			"propLocationY": -931.5260009765625,
+			"propLocationZ": 0,
+			"propYawValue": 0.94083160161972046
+		},
+		{
+			"propId": "props2",
+			"propName": "Wall_7",
+			"propLocationX": 1931.3709716796875,
+			"propLocationY": -1592.9764404296875,
+			"propLocationZ": 0,
+			"propYawValue": 2.5971829891204834
+		},
+		{
+			"propId": "props2",
+			"propName": "Wall_7",
+			"propLocationX": 1887.8377685546875,
+			"propLocationY": -2044.906494140625,
+			"propLocationZ": 0,
+			"propYawValue": 6.1115660667419434
+		},
+		{
+			"propId": "props2",
+			"propName": "Wall_7",
+			"propLocationX": 1601.8404541015625,
+			"propLocationY": -2566.703369140625,
+			"propLocationZ": 0,
+			"propYawValue": 7.5312995910644531
+		},
+		{
+			"propId": "foliage2",
+			"propName": "Wall_7",
+			"propLocationX": 1175.3260498046875,
+			"propLocationY": 2114.70654296875,
+			"propLocationZ": 0,
+			"propYawValue": -19.487920761108398
+		},
+		{
+			"propId": "foliage2",
+			"propName": "Wall_7",
+			"propLocationX": -1926.57763671875,
+			"propLocationY": -2658.681884765625,
+			"propLocationZ": 0,
+			"propYawValue": 20.432920455932617
+		},
+		{
+			"propId": "foliage2",
+			"propName": "Wall_7",
+			"propLocationX": -375.40704345703125,
+			"propLocationY": -2749.12890625,
+			"propLocationZ": 0,
+			"propYawValue": 27.61591911315918
+		},
+		{
+			"propId": "foliage2",
+			"propName": "Wall_7",
+			"propLocationX": 2693.515625,
+			"propLocationY": -2756.75537109375,
+			"propLocationZ": 0,
+			"propYawValue": 41.129413604736328
+		}
+	]
+}

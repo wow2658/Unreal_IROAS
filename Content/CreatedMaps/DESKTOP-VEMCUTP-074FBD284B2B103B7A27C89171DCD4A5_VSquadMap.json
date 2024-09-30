@@ -1,0 +1,51 @@
+{
+	"creatorMapId": "DESKTOP-VEMCUTP-074FBD284B2B103B7A27C89171DCD4A5",
+	"creatorMapName": "DESKTOP-VEMCUTP-074FBD284B2B103B7A27C89171DCD4A5_897457",
+	"creatorMapType": "MELEE",
+	"creator": 897457,
+	"createTime": "2023-10-31 01:39:41",
+	"playerStartPointXLocation": 1307.3677978515625,
+	"playerStartPointYLocation": 803.93212890625,
+	"playerStartPointZLocation": 0,
+	"playerStartPointYaw": 19.5,
+	"timezone": "Noon",
+	"enemySpawnerList": [
+		{
+			"enemyStartPointXLocation": -379.36367797851562,
+			"enemyStartPointYLocation": 858.67376708984375,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 6,
+			"enemySpawnerStartDelay": 6.179448127746582,
+			"enemySpawnerInterval": 1,
+			"enemyType": "Melee",
+			"enemyHp": 130,
+			"enemyPower": 23.594438552856445
+		}
+	],
+	"propList": [
+		{
+			"propId": "foliage3",
+			"propName": "foliage3",
+			"propLocationX": -751.32562255859375,
+			"propLocationY": -963.9068603515625,
+			"propLocationZ": 0,
+			"propYawValue": 1.6171658039093018
+		},
+		{
+			"propId": "foliage3",
+			"propName": "foliage3",
+			"propLocationX": -1895.6705322265625,
+			"propLocationY": 983.2242431640625,
+			"propLocationZ": 0,
+			"propYawValue": -3.4930284023284912
+		},
+		{
+			"propId": "foliage3",
+			"propName": "foliage3",
+			"propLocationX": -1442.98193359375,
+			"propLocationY": -1934.3634033203125,
+			"propLocationZ": 0,
+			"propYawValue": 12.061604499816895
+		}
+	]
+}

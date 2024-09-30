@@ -1,0 +1,43 @@
+{
+	"mapName": "DefaultMap",
+	"mapCreator": "LGT",
+	"mapID": "vsquad_1",
+	"playerStart_x": 10,
+	"playerStart_y": 10,
+	"playerStart_z": 10,
+	"playerStart_yaw": 90,
+	"timeZone": "Morning",
+	"spawnerList": [
+		{
+			"x": 5,
+			"y": 5,
+			"z": 5,
+			"enemyType": "Melee",
+			"enemyHP": 100,
+			"enemyPower": 30,
+			"spawnAmount": 30,
+			"spawnStartDelay": 5,
+			"spawnInterval": 2
+		},
+		{
+			"x": 7,
+			"y": 7,
+			"z": 7,
+			"enemyType": "Ranged_Ground",
+			"enemyHP": 150,
+			"enemyPower": 50,
+			"spawnAmount": 150,
+			"spawnStartDelay": 3,
+			"spawnInterval": 1
+		}
+	],
+	"propList": [
+		{
+			"x": 15,
+			"y": 15,
+			"z": 15,
+			"yaw": 45,
+			"propID": "Wall_1_White"
+		}
+	]
+}

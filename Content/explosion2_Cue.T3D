@@ -1,0 +1,37 @@
+Begin Object Class=/Script/Engine.SoundCue Name="explosion2_Cue" ExportPath=/Script/Engine.SoundCue'"/Game/MEGA_FULL_BUNDLE/220_PREMIUM_WEAPONS_EXPLOSIVES/CUES/EXPLOSIVES/explosion2_Cue.explosion2_Cue"'
+   Begin Object Class=/Script/AudioEditor.SoundCueGraph Name="SoundCueGraph_0" ExportPath=/Script/AudioEditor.SoundCueGraph'"/Game/MEGA_FULL_BUNDLE/220_PREMIUM_WEAPONS_EXPLOSIVES/CUES/EXPLOSIVES/explosion2_Cue.explosion2_Cue:SoundCueGraph_0"'
+      Begin Object Class=/Script/AudioEditor.SoundCueGraphNode Name="SoundCueGraphNode_0" ExportPath=/Script/AudioEditor.SoundCueGraphNode'"/Game/MEGA_FULL_BUNDLE/220_PREMIUM_WEAPONS_EXPLOSIVES/CUES/EXPLOSIVES/explosion2_Cue.explosion2_Cue:SoundCueGraph_0.SoundCueGraphNode_0"'
+      End Object
+      Begin Object Class=/Script/AudioEditor.SoundCueGraphNode_Root Name="SoundCueGraphNode_Root_0" ExportPath=/Script/AudioEditor.SoundCueGraphNode_Root'"/Game/MEGA_FULL_BUNDLE/220_PREMIUM_WEAPONS_EXPLOSIVES/CUES/EXPLOSIVES/explosion2_Cue.explosion2_Cue:SoundCueGraph_0.SoundCueGraphNode_Root_0"'
+      End Object
+   End Object
+   Begin Object Class=/Script/Engine.SoundNodeWavePlayer Name="SoundNodeWavePlayer_0" ExportPath=/Script/Engine.SoundNodeWavePlayer'"/Game/MEGA_FULL_BUNDLE/220_PREMIUM_WEAPONS_EXPLOSIVES/CUES/EXPLOSIVES/explosion2_Cue.explosion2_Cue:SoundNodeWavePlayer_0"'
+   End Object
+   Begin Object Name="SoundCueGraph_0" ExportPath=/Script/AudioEditor.SoundCueGraph'"/Game/MEGA_FULL_BUNDLE/220_PREMIUM_WEAPONS_EXPLOSIVES/CUES/EXPLOSIVES/explosion2_Cue.explosion2_Cue:SoundCueGraph_0"'
+      Begin Object Name="SoundCueGraphNode_0" ExportPath=/Script/AudioEditor.SoundCueGraphNode'"/Game/MEGA_FULL_BUNDLE/220_PREMIUM_WEAPONS_EXPLOSIVES/CUES/EXPLOSIVES/explosion2_Cue.explosion2_Cue:SoundCueGraph_0.SoundCueGraphNode_0"'
+         SoundNode=/Script/Engine.SoundNodeWavePlayer'"explosion2_Cue:SoundNodeWavePlayer_0"'
+         NodePosX=-343
+         NodeGuid=8ED7B3304951D2997C3D70BBC917B4B6
+         CustomProperties Pin (PinId=221C6EB4442B1BA98945AE944FE82BFF,PinName="Output",Direction="EGPD_Output",PinType.PinCategory="SoundNode",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(SoundCueGraphNode_Root_0 9433B45E46216C507842FDAD90AAC8D8,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="SoundCueGraphNode_Root_0" ExportPath=/Script/AudioEditor.SoundCueGraphNode_Root'"/Game/MEGA_FULL_BUNDLE/220_PREMIUM_WEAPONS_EXPLOSIVES/CUES/EXPLOSIVES/explosion2_Cue.explosion2_Cue:SoundCueGraph_0.SoundCueGraphNode_Root_0"'
+         NodePosY=-58
+         NodeGuid=FF529B294009097F0729E3835823D407
+         CustomProperties Pin (PinId=9433B45E46216C507842FDAD90AAC8D8,PinType.PinCategory="SoundNode",PinType.PinSubCategory="Root",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(SoundCueGraphNode_0 221C6EB4442B1BA98945AE944FE82BFF,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Schema=/Script/CoreUObject.Class'"/Script/AudioEditor.SoundCueGraphSchema"'
+      Nodes(0)=/Script/AudioEditor.SoundCueGraphNode_Root'"SoundCueGraphNode_Root_0"'
+      Nodes(1)=/Script/AudioEditor.SoundCueGraphNode'"SoundCueGraphNode_0"'
+      bAllowDeletion=False
+      GraphGuid=F046E2E3411AEF967E4419A655A4767A
+   End Object
+   Begin Object Name="SoundNodeWavePlayer_0" ExportPath=/Script/Engine.SoundNodeWavePlayer'"/Game/MEGA_FULL_BUNDLE/220_PREMIUM_WEAPONS_EXPLOSIVES/CUES/EXPLOSIVES/explosion2_Cue.explosion2_Cue:SoundNodeWavePlayer_0"'
+      SoundWaveAssetPtr="/Game/MEGA_FULL_BUNDLE/220_PREMIUM_WEAPONS_EXPLOSIVES/WAVES/EXPLOSIVES/explosion2.explosion2"
+      GraphNode=/Script/AudioEditor.SoundCueGraphNode'"explosion2_Cue:SoundCueGraph_0.SoundCueGraphNode_0"'
+   End Object
+   FirstNode=/Script/Engine.SoundNodeWavePlayer'"SoundNodeWavePlayer_0"'
+   AllNodes(0)=/Script/Engine.SoundNodeWavePlayer'"SoundNodeWavePlayer_0"'
+   SoundCueGraph=/Script/AudioEditor.SoundCueGraph'"SoundCueGraph_0"'
+   Duration=2.230771
+   MaxDistance=2097152.000000
+End Object

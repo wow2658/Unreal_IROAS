@@ -1,0 +1,110 @@
+{
+	"creatorMapId": "DESKTOP-VEMCUTP-2087DD2B4E14FFEF951F61801E16549D",
+	"creatorMapName": "VSQUAD_MAP_2",
+	"creatorMapType": "TIME_ATTACK",
+	"creator": 123456789,
+	"createTime": "2023-10-30 23:49:29",
+	"playerStartPointXLocation": -2019.436279296875,
+	"playerStartPointYLocation": -47.779823303222656,
+	"playerStartPointZLocation": 0,
+	"playerStartPointYaw": 0,
+	"timezone": "Noon",
+	"enemySpawnerList": [
+		{
+			"enemyStartPointXLocation": 859.74920654296875,
+			"enemyStartPointYLocation": 943.302734375,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 12,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 2.4781389236450195,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 34.148666381835938
+		},
+		{
+			"enemyStartPointXLocation": 978.95477294921875,
+			"enemyStartPointYLocation": -1214.05712890625,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 8.0041885375976562
+		}
+	],
+	"propList": [
+		{
+			"propId": "building_2",
+			"propName": "Wall_7",
+			"propLocationX": 948.632568359375,
+			"propLocationY": 1191.8846435546875,
+			"propLocationZ": 0,
+			"propYawValue": -21.806140899658203
+		},
+		{
+			"propId": "building_4",
+			"propName": "Wall_7",
+			"propLocationX": -1335.28662109375,
+			"propLocationY": -1809.0400390625,
+			"propLocationZ": 0,
+			"propYawValue": 13.321759223937988
+		},
+		{
+			"propId": "props2",
+			"propName": "Wall_7",
+			"propLocationX": 1578.869384765625,
+			"propLocationY": 240.23426818847656,
+			"propLocationZ": 0,
+			"propYawValue": -5.2976865768432617
+		},
+		{
+			"propId": "props2",
+			"propName": "Wall_7",
+			"propLocationX": 1227.3626708984375,
+			"propLocationY": 861.890625,
+			"propLocationZ": 0,
+			"propYawValue": -9.7852792739868164
+		},
+		{
+			"propId": "props2",
+			"propName": "Wall_7",
+			"propLocationX": 1632.233154296875,
+			"propLocationY": 964.92315673828125,
+			"propLocationZ": 0,
+			"propYawValue": -8.3141489028930664
+		},
+		{
+			"propId": "props2",
+			"propName": "Wall_7",
+			"propLocationX": 2053.6064453125,
+			"propLocationY": 409.3680419921875,
+			"propLocationZ": 0,
+			"propYawValue": -8.2687959671020508
+		},
+		{
+			"propId": "props2",
+			"propName": "Wall_7",
+			"propLocationX": 1809.4591064453125,
+			"propLocationY": -486.54034423828125,
+			"propLocationZ": 0,
+			"propYawValue": -2.6387434005737305
+		},
+		{
+			"propId": "props2",
+			"propName": "Wall_7",
+			"propLocationX": 1143.6982421875,
+			"propLocationY": -723.8134765625,
+			"propLocationZ": 0,
+			"propYawValue": 1.3351620435714722
+		},
+		{
+			"propId": "props2",
+			"propName": "Wall_7",
+			"propLocationX": 630.18060302734375,
+			"propLocationY": -860.9342041015625,
+			"propLocationZ": 0,
+			"propYawValue": 0.6671144962310791
+		}
+	]
+}

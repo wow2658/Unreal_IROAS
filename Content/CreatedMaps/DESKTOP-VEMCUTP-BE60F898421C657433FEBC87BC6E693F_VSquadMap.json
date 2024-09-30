@@ -1,0 +1,141 @@
+{
+	"creatorMapId": "DESKTOP-VEMCUTP-BE60F898421C657433FEBC87BC6E693F",
+	"creatorMapName": "DESKTOP-VEMCUTP-BE60F898421C657433FEBC87BC6E693F_168404",
+	"creatorMapType": "TIME_ATTACK",
+	"creator": 168404,
+	"createTime": "2023-10-31 01:58:53",
+	"playerStartPointXLocation": 2246.968505859375,
+	"playerStartPointYLocation": -120.12553405761719,
+	"playerStartPointZLocation": 0,
+	"playerStartPointYaw": 0,
+	"timezone": "Noon",
+	"enemySpawnerList": [
+		{
+			"enemyStartPointXLocation": 446.4656982421875,
+			"enemyStartPointYLocation": 1062.1942138671875,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		},
+		{
+			"enemyStartPointXLocation": -240.56228637695312,
+			"enemyStartPointYLocation": 319.2880859375,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		},
+		{
+			"enemyStartPointXLocation": 1163.9219970703125,
+			"enemyStartPointYLocation": 1204.6241455078125,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		},
+		{
+			"enemyStartPointXLocation": 997.294189453125,
+			"enemyStartPointYLocation": 438.07125854492188,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		},
+		{
+			"enemyStartPointXLocation": 1030.88134765625,
+			"enemyStartPointYLocation": -240.1724853515625,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		},
+		{
+			"enemyStartPointXLocation": 1018.7313232421875,
+			"enemyStartPointYLocation": -647.62139892578125,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		},
+		{
+			"enemyStartPointXLocation": 1084.6195068359375,
+			"enemyStartPointYLocation": -1205.178955078125,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		}
+	],
+	"propList": [
+		{
+			"propId": "building_3",
+			"propName": "building_3",
+			"propLocationX": -2140.894287109375,
+			"propLocationY": 1527.1864013671875,
+			"propLocationZ": 0,
+			"propYawValue": -8.6412734985351562
+		},
+		{
+			"propId": "props3",
+			"propName": "props3",
+			"propLocationX": -1572.790283203125,
+			"propLocationY": -1457.97900390625,
+			"propLocationZ": 0,
+			"propYawValue": 5.4410009384155273
+		},
+		{
+			"propId": "props3",
+			"propName": "props3",
+			"propLocationX": -1257.78857421875,
+			"propLocationY": -2476.9306640625,
+			"propLocationZ": 0,
+			"propYawValue": 6.6452603340148926
+		},
+		{
+			"propId": "props3",
+			"propName": "props3",
+			"propLocationX": 116.01595306396484,
+			"propLocationY": -2127.37451171875,
+			"propLocationZ": 0,
+			"propYawValue": 9.6885242462158203
+		},
+		{
+			"propId": "props3",
+			"propName": "props3",
+			"propLocationX": 903.15899658203125,
+			"propLocationY": -1931.109130859375,
+			"propLocationZ": 0,
+			"propYawValue": 12.65520191192627
+		},
+		{
+			"propId": "building_4",
+			"propName": "building_4",
+			"propLocationX": -2429.8662109375,
+			"propLocationY": -868.09478759765625,
+			"propLocationZ": 0,
+			"propYawValue": 6.1220474243164062
+		}
+	]
+}

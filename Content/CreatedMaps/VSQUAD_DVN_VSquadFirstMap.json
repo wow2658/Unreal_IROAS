@@ -1,0 +1,39 @@
+{
+	"mapName": "VSquadFirstMap",
+	"mapCreator": "VSQUAD_DVN",
+	"mapID": "testMapID_1",
+	"playerStart_x": 0,
+	"playerStart_y": 0,
+	"playerStart_z": 0,
+	"playerStart_yaw": 0,
+	"timeZone": "Noon",
+	"spawnerList": [
+		{
+			"x": 0,
+			"y": 0,
+			"z": 0,
+			"enemyType": "None",
+			"enemyHP": 0,
+			"enemyPower": 0,
+			"spawnAmount": 0,
+			"spawnStartDelay": 0,
+			"spawnInterval": 0
+		}
+	],
+	"propList": [
+		{
+			"x": 0,
+			"y": 0,
+			"z": 0,
+			"yaw": 0,
+			"propID": ""
+		},
+		{
+			"x": 0,
+			"y": 0,
+			"z": 0,
+			"yaw": 0,
+			"propID": ""
+		}
+	]
+}

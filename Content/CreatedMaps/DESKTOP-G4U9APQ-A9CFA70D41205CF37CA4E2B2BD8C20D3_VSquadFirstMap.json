@@ -1,0 +1,14 @@
+{
+	"creatorMapId": "DESKTOP-G4U9APQ-A9CFA70D41205CF37CA4E2B2BD8C20D3",
+	"creatorMapName": "VSQUAD_MAP_2",
+	"creatorMapType": "TIME_ATTACK",
+	"creator": 123456789,
+	"createTime": "2023-10-30 11:50:46",
+	"playerStartPointXLocation": 0,
+	"playerStartPointYLocation": 0,
+	"playerStartPointZLocation": 0,
+	"playerStartPointYaw": 0,
+	"timezone": "Noon",
+	"enemySpawnerList": [],
+	"propList": []
+}

@@ -1,0 +1,304 @@
+{
+	"creatorMapId": "DESKTOP-VEMCUTP-15504F724661251AA1B2F09A5F2F1205",
+	"creatorMapName": "DESKTOP-VEMCUTP-15504F724661251AA1B2F09A5F2F1205_613703",
+	"creatorMapType": "TIME_ATTACK",
+	"creator": 613703,
+	"createTime": "2023-10-31 03:13:41",
+	"playerStartPointXLocation": 0,
+	"playerStartPointYLocation": 0,
+	"playerStartPointZLocation": 0,
+	"playerStartPointYaw": 0,
+	"timezone": "Noon",
+	"enemySpawnerList": [
+		{
+			"enemyStartPointXLocation": -712.25628662109375,
+			"enemyStartPointYLocation": 1131.6427001953125,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		},
+		{
+			"enemyStartPointXLocation": -888.215576171875,
+			"enemyStartPointYLocation": -203.06744384765625,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		},
+		{
+			"enemyStartPointXLocation": 1044.6959228515625,
+			"enemyStartPointYLocation": -412.65621948242188,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		},
+		{
+			"enemyStartPointXLocation": 869.13653564453125,
+			"enemyStartPointYLocation": 1062.2479248046875,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		},
+		{
+			"enemyStartPointXLocation": 219.17558288574219,
+			"enemyStartPointYLocation": 1025.623046875,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		},
+		{
+			"enemyStartPointXLocation": -1145.0904541015625,
+			"enemyStartPointYLocation": 1751.89990234375,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		},
+		{
+			"enemyStartPointXLocation": -55.432838439941406,
+			"enemyStartPointYLocation": 1600.8179931640625,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 15,
+			"enemySpawnerStartDelay": 89.430694580078125,
+			"enemySpawnerInterval": 5.6264886856079102,
+			"enemyType": "Melee",
+			"enemyHp": 94.659393310546875,
+			"enemyPower": 99.63818359375
+		},
+		{
+			"enemyStartPointXLocation": 409.61642456054688,
+			"enemyStartPointYLocation": 1458.9361572265625,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		}
+	],
+	"propList": [
+		{
+			"propId": "building_1",
+			"propName": "building_1",
+			"propLocationX": -2269.167236328125,
+			"propLocationY": -1450.5753173828125,
+			"propLocationZ": 0,
+			"propYawValue": 64.787445068359375
+		},
+		{
+			"propId": "building_1",
+			"propName": "building_1",
+			"propLocationX": 2354.3251953125,
+			"propLocationY": -1413.18701171875,
+			"propLocationZ": 0,
+			"propYawValue": 99.581817626953125
+		},
+		{
+			"propId": "props1",
+			"propName": "props1",
+			"propLocationX": -2436.0244140625,
+			"propLocationY": -1537.6107177734375,
+			"propLocationZ": 0,
+			"propYawValue": 69.283439636230469
+		},
+		{
+			"propId": "props1",
+			"propName": "props1",
+			"propLocationX": -2362.899658203125,
+			"propLocationY": -794.313720703125,
+			"propLocationZ": 0,
+			"propYawValue": 67.559410095214844
+		},
+		{
+			"propId": "props1",
+			"propName": "props1",
+			"propLocationX": -2509.4384765625,
+			"propLocationY": -147.92208862304688,
+			"propLocationZ": 0,
+			"propYawValue": 65.704116821289062
+		},
+		{
+			"propId": "props1",
+			"propName": "props1",
+			"propLocationX": -2474.357666015625,
+			"propLocationY": 512.85064697265625,
+			"propLocationZ": 0,
+			"propYawValue": 64.143836975097656
+		},
+		{
+			"propId": "props1",
+			"propName": "props1",
+			"propLocationX": -2532.810546875,
+			"propLocationY": 1109.7669677734375,
+			"propLocationZ": 0,
+			"propYawValue": 62.544181823730469
+		},
+		{
+			"propId": "props1",
+			"propName": "props1",
+			"propLocationX": -2266.420654296875,
+			"propLocationY": 1818.8480224609375,
+			"propLocationZ": 0,
+			"propYawValue": 62.862236022949219
+		},
+		{
+			"propId": "props1",
+			"propName": "props1",
+			"propLocationX": -1716.42578125,
+			"propLocationY": 2121.79736328125,
+			"propLocationZ": 0,
+			"propYawValue": 67.32830810546875
+		},
+		{
+			"propId": "props1",
+			"propName": "props1",
+			"propLocationX": -1206.9373779296875,
+			"propLocationY": 2168.437255859375,
+			"propLocationZ": 0,
+			"propYawValue": 61.801895141601562
+		},
+		{
+			"propId": "props1",
+			"propName": "props1",
+			"propLocationX": -485.17974853515625,
+			"propLocationY": 2287.213623046875,
+			"propLocationZ": 0,
+			"propYawValue": 68.54156494140625
+		},
+		{
+			"propId": "props1",
+			"propName": "props1",
+			"propLocationX": 40.195503234863281,
+			"propLocationY": 2332.361328125,
+			"propLocationZ": 0,
+			"propYawValue": 76.045150756835938
+		},
+		{
+			"propId": "props1",
+			"propName": "props1",
+			"propLocationX": 636.30572509765625,
+			"propLocationY": 2374.0634765625,
+			"propLocationZ": 0,
+			"propYawValue": 83.796707153320312
+		},
+		{
+			"propId": "props1",
+			"propName": "props1",
+			"propLocationX": 1250.83349609375,
+			"propLocationY": 2137.658447265625,
+			"propLocationZ": 0,
+			"propYawValue": 92.01409912109375
+		},
+		{
+			"propId": "props1",
+			"propName": "props1",
+			"propLocationX": 1796.5631103515625,
+			"propLocationY": 1720.6539306640625,
+			"propLocationZ": 0,
+			"propYawValue": 97.613075256347656
+		},
+		{
+			"propId": "props1",
+			"propName": "props1",
+			"propLocationX": 1913.4378662109375,
+			"propLocationY": 1252.8006591796875,
+			"propLocationZ": 0,
+			"propYawValue": 99.262001037597656
+		},
+		{
+			"propId": "props1",
+			"propName": "props1",
+			"propLocationX": 1733.4969482421875,
+			"propLocationY": 573.8878173828125,
+			"propLocationZ": 0,
+			"propYawValue": 98.066520690917969
+		},
+		{
+			"propId": "props1",
+			"propName": "props1",
+			"propLocationX": 1204.185546875,
+			"propLocationY": 256.94589233398438,
+			"propLocationZ": 0,
+			"propYawValue": 94.412605285644531
+		},
+		{
+			"propId": "props1",
+			"propName": "props1",
+			"propLocationX": -873.5045166015625,
+			"propLocationY": -1256.266357421875,
+			"propLocationZ": 0,
+			"propYawValue": 79.946861267089844
+		},
+		{
+			"propId": "props1",
+			"propName": "props1",
+			"propLocationX": -1715.3941650390625,
+			"propLocationY": -2244.716552734375,
+			"propLocationZ": 0,
+			"propYawValue": 75.888481140136719
+		},
+		{
+			"propId": "props1",
+			"propName": "props1",
+			"propLocationX": 245.72041320800781,
+			"propLocationY": -1773.4588623046875,
+			"propLocationZ": 0,
+			"propYawValue": 84.969688415527344
+		},
+		{
+			"propId": "foliage2",
+			"propName": "foliage2",
+			"propLocationX": -499.42227172851562,
+			"propLocationY": -2423.612548828125,
+			"propLocationZ": 0,
+			"propYawValue": 86.266731262207031
+		},
+		{
+			"propId": "foliage2",
+			"propName": "foliage2",
+			"propLocationX": -1415.0394287109375,
+			"propLocationY": 543.21856689453125,
+			"propLocationZ": 0,
+			"propYawValue": 68.910667419433594
+		},
+		{
+			"propId": "foliage2",
+			"propName": "foliage2",
+			"propLocationX": -2592.277099609375,
+			"propLocationY": 2812.097412109375,
+			"propLocationZ": 0,
+			"propYawValue": 44.444751739501953
+		},
+		{
+			"propId": "foliage2",
+			"propName": "foliage2",
+			"propLocationX": 2391.388427734375,
+			"propLocationY": 2809.21875,
+			"propLocationZ": 0,
+			"propYawValue": 123.40696716308594
+		}
+	]
+}
