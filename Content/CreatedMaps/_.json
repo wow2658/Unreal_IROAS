@@ -1,0 +1,24 @@
+{
+	"mapName": "",
+	"mapCreator": "",
+	"mapID": "",
+	"playerStart_x": 92,
+	"playerStart_y": -448,
+	"playerStart_z": 92,
+	"playerStart_yaw": 0,
+	"timeZone": "Noon",
+	"spawnerList": [
+		{
+			"x": 0,
+			"y": 0,
+			"z": 0,
+			"enemyType": "Melee",
+			"enemyHP": 123.5,
+			"enemyPower": 111.09999847412109,
+			"spawnAmount": 33,
+			"spawnStartDelay": 1.5,
+			"spawnInterval": 1
+		}
+	],
+	"propList": []
+}

@@ -1,0 +1,55 @@
+{
+	"creatorMapId": "DESKTOP-G4U9APQ-12026A6B47206B99665CF6A4E68FD72F",
+	"creatorMapName": "VSQUAD_MAP_2",
+	"creatorMapType": "TIME_ATTACK",
+	"creator": 123456789,
+	"createTime": "2023-10-30 12:13:02",
+	"playerStartPointXLocation": 0,
+	"playerStartPointYLocation": 0,
+	"playerStartPointZLocation": 0,
+	"playerStartPointYaw": 0,
+	"timezone": "Noon",
+	"enemySpawnerList": [],
+	"propList": [
+		{
+			"propId": "building_1",
+			"propName": "Wall_7",
+			"propLocationX": 1837.0299072265625,
+			"propLocationY": -1734.1962890625,
+			"propLocationZ": 0,
+			"propYawValue": 28.244754791259766
+		},
+		{
+			"propId": "building_1",
+			"propName": "Wall_7",
+			"propLocationX": -1359.52490234375,
+			"propLocationY": -1887.072021484375,
+			"propLocationZ": 0,
+			"propYawValue": 12.601437568664551
+		},
+		{
+			"propId": "building_1",
+			"propName": "Wall_7",
+			"propLocationX": -1333.005859375,
+			"propLocationY": 1703.8363037109375,
+			"propLocationZ": 0,
+			"propYawValue": -4.124610424041748
+		},
+		{
+			"propId": "building_1",
+			"propName": "Wall_7",
+			"propLocationX": 1763.5587158203125,
+			"propLocationY": 1004.255126953125,
+			"propLocationZ": 0,
+			"propYawValue": -19.559947967529297
+		},
+		{
+			"propId": "building_1",
+			"propName": "Wall_7",
+			"propLocationX": 1664.5728759765625,
+			"propLocationY": -1494.6417236328125,
+			"propLocationZ": 0,
+			"propYawValue": 10.453102111816406
+		}
+	]
+}

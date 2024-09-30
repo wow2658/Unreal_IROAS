@@ -1,0 +1,46 @@
+{
+	"creatorMapId": "DESKTOP-G4U9APQ-1EC4D31E4AEE816F8CA5A7B1E3145782",
+	"creatorMapName": "VSQUAD_MAP_2",
+	"creatorMapType": "TIME_ATTACK",
+	"creator": 123456789,
+	"createTime": "2023-10-29 20:45:49",
+	"playerStartPointXLocation": 300,
+	"playerStartPointYLocation": 350,
+	"playerStartPointZLocation": 250,
+	"playerStartPointYaw": 180,
+	"timezone": "Noon",
+	"enemySpawnerList": [
+		{
+			"enemyStartPointXLocation": 600,
+			"enemyStartPointYLocation": 550,
+			"enemyStartPointZLocation": 650,
+			"enemySpawnAmount": 30,
+			"enemySpawnerStartDelay": 5.5,
+			"enemySpawnerInterval": 0.69999998807907104,
+			"enemyType": "Ranged_Ground",
+			"enemyHp": 150,
+			"enemyPower": 30
+		},
+		{
+			"enemyStartPointXLocation": 600,
+			"enemyStartPointYLocation": 550,
+			"enemyStartPointZLocation": 650,
+			"enemySpawnAmount": 30,
+			"enemySpawnerStartDelay": 5.5,
+			"enemySpawnerInterval": 0.69999998807907104,
+			"enemyType": "Ranged_Ground",
+			"enemyHp": 150,
+			"enemyPower": 30
+		}
+	],
+	"propList": [
+		{
+			"propId": "Prop_3",
+			"propName": "Wall_7",
+			"propLocationX": 500,
+			"propLocationY": 450,
+			"propLocationZ": 550,
+			"propYawValue": 270
+		}
+	]
+}

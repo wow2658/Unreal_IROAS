@@ -1,0 +1,23 @@
+{
+	"creatorMapId": "DESKTOP-G4U9APQ-6A2F291C4BB54A50A9C36E8167750303",
+	"creatorMapName": "VSQUAD_MAP_2",
+	"creatorMapType": "TIME_ATTACK",
+	"creator": 123456789,
+	"createTime": "2023-10-30 08:59:49",
+	"playerStartPointXLocation": -1270.5615234375,
+	"playerStartPointYLocation": 2176.774658203125,
+	"playerStartPointZLocation": 0,
+	"playerStartPointYaw": -10.017889976501465,
+	"timezone": "Noon",
+	"enemySpawnerList": [],
+	"propList": [
+		{
+			"propId": "props2",
+			"propName": "Wall_7",
+			"propLocationX": 1354.7315673828125,
+			"propLocationY": -771.897705078125,
+			"propLocationZ": 0,
+			"propYawValue": 5.7375736236572266
+		}
+	]
+}

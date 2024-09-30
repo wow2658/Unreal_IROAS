@@ -1,0 +1,70 @@
+{
+	"creatorMapId": "Danny-E65F59924B5102BF65551F8CC0CB4A1E",
+	"creatorMapName": "VSQUAD_MAP_2",
+	"creatorMapType": "TIME_ATTACK",
+	"creator": 123456789,
+	"createTime": "2023-10-30 01:36:28",
+	"playerStartPointXLocation": 0,
+	"playerStartPointYLocation": 0,
+	"playerStartPointZLocation": 0,
+	"playerStartPointYaw": 0,
+	"timezone": "Noon",
+	"enemySpawnerList": [
+		{
+			"enemyStartPointXLocation": 0,
+			"enemyStartPointYLocation": 0,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 33,
+			"enemySpawnerStartDelay": 1.5,
+			"enemySpawnerInterval": 1,
+			"enemyType": "Melee",
+			"enemyHp": 123.5,
+			"enemyPower": 111.09999847412109
+		},
+		{
+			"enemyStartPointXLocation": 0,
+			"enemyStartPointYLocation": 0,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 33,
+			"enemySpawnerStartDelay": 1.5,
+			"enemySpawnerInterval": 1,
+			"enemyType": "Melee",
+			"enemyHp": 123.5,
+			"enemyPower": 111.09999847412109
+		}
+	],
+	"propList": [
+		{
+			"propId": "building3",
+			"propName": "Wall_7",
+			"propLocationX": 1487,
+			"propLocationY": -699,
+			"propLocationZ": 0,
+			"propYawValue": 0
+		},
+		{
+			"propId": "prop1",
+			"propName": "Wall_7",
+			"propLocationX": -68,
+			"propLocationY": 204,
+			"propLocationZ": 0,
+			"propYawValue": 0
+		},
+		{
+			"propId": "building3",
+			"propName": "Wall_7",
+			"propLocationX": -304,
+			"propLocationY": -959,
+			"propLocationZ": 0,
+			"propYawValue": 0
+		},
+		{
+			"propId": "prop1",
+			"propName": "Wall_7",
+			"propLocationX": 1079,
+			"propLocationY": 897,
+			"propLocationZ": 0,
+			"propYawValue": 0
+		}
+	]
+}

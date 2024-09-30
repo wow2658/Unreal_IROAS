@@ -1,0 +1,57 @@
+{
+	"creatorMapId": "DESKTOP-G4U9APQ-97D654164C483865C60B26AD4BFF8FE9",
+	"creatorMapName": "VSQUAD_MAP_2",
+	"creatorMapType": "TIME_ATTACK",
+	"creator": 123456789,
+	"createTime": "2023-10-31 00:08:14",
+	"playerStartPointXLocation": 0,
+	"playerStartPointYLocation": 0,
+	"playerStartPointZLocation": 0,
+	"playerStartPointYaw": 0,
+	"timezone": "Noon",
+	"enemySpawnerList": [
+		{
+			"enemyStartPointXLocation": -725.13372802734375,
+			"enemyStartPointYLocation": -897.49615478515625,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		},
+		{
+			"enemyStartPointXLocation": 1402.0928955078125,
+			"enemyStartPointYLocation": -150.01544189453125,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		},
+		{
+			"enemyStartPointXLocation": 2259.086669921875,
+			"enemyStartPointYLocation": 233.50230407714844,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		}
+	],
+	"propList": [
+		{
+			"propId": "building_1",
+			"propName": "Wall_7",
+			"propLocationX": 1867.956787109375,
+			"propLocationY": -1712.993408203125,
+			"propLocationZ": 0,
+			"propYawValue": 24.839017868041992
+		}
+	]
+}

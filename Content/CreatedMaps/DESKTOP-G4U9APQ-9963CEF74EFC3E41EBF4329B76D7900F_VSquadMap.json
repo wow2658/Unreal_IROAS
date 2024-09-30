@@ -1,0 +1,43 @@
+{
+	"creatorMapId": "DESKTOP-G4U9APQ-9963CEF74EFC3E41EBF4329B76D7900F",
+	"creatorMapName": "VSQUAD_MAP_2",
+	"creatorMapType": "TIME_ATTACK",
+	"creator": 123456789,
+	"createTime": "2023-10-31 01:19:02",
+	"playerStartPointXLocation": -1133.6640625,
+	"playerStartPointYLocation": -2346.67724609375,
+	"playerStartPointZLocation": 0,
+	"playerStartPointYaw": 0,
+	"timezone": "Noon",
+	"enemySpawnerList": [
+		{
+			"enemyStartPointXLocation": 0,
+			"enemyStartPointYLocation": 0,
+			"enemyStartPointZLocation": 0,
+			"enemySpawnAmount": 0,
+			"enemySpawnerStartDelay": 0,
+			"enemySpawnerInterval": 0,
+			"enemyType": "Melee",
+			"enemyHp": 0,
+			"enemyPower": 0
+		}
+	],
+	"propList": [
+		{
+			"propId": "props2",
+			"propName": "Wall_7",
+			"propLocationX": -964.93060302734375,
+			"propLocationY": 1801.7066650390625,
+			"propLocationZ": 0,
+			"propYawValue": -0.58533591032028198
+		},
+		{
+			"propId": "props2",
+			"propName": "Wall_7",
+			"propLocationX": -1723.9915771484375,
+			"propLocationY": 360.07388305664062,
+			"propLocationZ": 0,
+			"propYawValue": 1.9469823837280273
+		}
+	]
+}
